@@ -40,9 +40,9 @@ Mac:
 1. Install git using Homebrew `brew install git`
 1. Set your default shell to bash `chsh -s /bin/bash` - You'll be prompted to type a password. The command line doesn't give you feedback that you're typing. Just type your password and hit enter. Backspace a lot if you make a mistake.
 
-- [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] [Install Github Desktop](https://desktop.github.com/)
-- [ ] Connect your Github account in Githhub Desktop
+- [x] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
+- [x] [Install Github Desktop](https://desktop.github.com/)
+- [x] Connect your Github account in Githhub Desktop
 
 
 
@@ -55,16 +55,16 @@ You should be able to perform a basic Git workflow using Github.com, the command
 You should be able to ...
 
 - [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-  - [ ] File > Clone Repository > Github.com and select it ...
-  - [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `critical-web-design`
-  - [ ] Click "Clone" to make a local copy
-- [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] In Atom, edit this README file and add your *second* favorite emoji here: **??**
-- [ ] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
-- [ ] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
-- [ ] Click Push origin to push your changes back to remote repo  
-- [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+  - [x] File > Clone Repository > Github.com and select it ...
+  - [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `critical-web-design`
+  - [x] Click "Clone" to make a local copy
+- [x] Open the repo in Atom: Repository > Open in Atom  
+- [x] In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
+- [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
+- [x] Click Push origin to push your changes back to remote repo  
+- [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [x] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line (CLI)
