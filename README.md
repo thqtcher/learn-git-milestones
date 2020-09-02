@@ -84,16 +84,16 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] View the status of your repo: `git status`
   - [x] View the changed files of your repo: `git diff`
   - [x] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+  - [x] View the status of your repo `git status` to confirm it has been staged
+  - [x] Commit your changes with the message `commit #3 from CLI`
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] In Atom, edit this README file and add your *third* favorite emoji here: **??**
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] In Atom, edit this README file and add your *third* favorite emoji here: 😁
 - [ ] Create a new file `hello.txt`, add some text and save it.
 - [ ] Display the Git panel (click the small Git button at the bottom right).
 
