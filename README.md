@@ -24,14 +24,14 @@ Create a Github account and make your first commit
 - [x] [Create a Github account](https://github.com/join)
 - [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
 - [x] Edit the README file (click the pencil icon) and add your favorite emoji here: 😁
-- [ ] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
-- [ ] View the commit history and confirm your edits
+- [x] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
+- [x] View the commit history and confirm your edits
 
 
 ### Git Installation
 Install your development environment
 
-- [ ] Install Git on your machine
+- [x] Install Git on your machine
 
 Windows: Install [Git for Windows](https://gitforwindows.org/) (includes [Git BASH](https://www.atlassian.com/git/tutorials/git-bash), its own version of the bash shell)
 
@@ -54,7 +54,7 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
   - [ ] File > Clone Repository > Github.com and select it ...
   - [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `critical-web-design`
   - [ ] Click "Clone" to make a local copy
