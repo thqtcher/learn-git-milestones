@@ -99,9 +99,9 @@ You should be able to ...
 
 ![atom-git-menu](img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] Commit your changes directly to the master branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] Commit your changes directly to the master branch with the message `commit #4 from Atom`
 
 
 
@@ -110,11 +110,11 @@ You should be able to ...
 Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
 
 
-- [ ] In Github Desktop, create a new repository ...
-  - [ ] Name: `dig245-a1`
-  - [ ] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] In Github Desktop, create a new repository ...
+  - [x] Name: `dig245-a1`
+  - [x] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   critical-web-design
     |-- dig245-a1
