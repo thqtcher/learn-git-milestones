@@ -127,14 +127,14 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 - [x] Complete Assignment 1
   - [x] Create a file called `index.html` in your repo
   - [x] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
-  - [ ] Test your file in a web browser
-  - [ ] Commit and push the files to Github
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
 - [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Choose "Project site"
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [ ] Visit your project site at http://*username*.github.io/dig245-a1
-  - [ ] Paste this link into the appropriate Moodle forum
+  - [x] Choose "Project site"
+  - [x] Do not use a theme. Start from scratch
+  - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
+  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Paste this link into the appropriate Moodle forum
 
 
 ## Git Fluency
