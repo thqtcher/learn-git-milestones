@@ -106,44 +106,92 @@ You should be able to ...
 
 
 
-## Turn in Assignments
-Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
+## Create a new repository
 
-
-- [x] In Github Desktop, create a new repository ...
-  - [x] Name: `dig245-a1`
-  - [x] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
-  - [x] Click Create Repository
-  - [x] This should now be your class folder's directory structure.
+- [ ] Create a repository from scratch
+  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  - [ ] Click Create Repository
+  - [ ] This should now be your class folder's directory structure.
   ```
-  critical-web-design
-    |-- dig245-a1
+  <your-class-name-here>
+    |-- my-awesome-project
     |-- learn-git-milestones
   ```
-- [x] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
-  - [x] Add a README file: `README.md`
-  - [x] In the README write your name and the date
-  - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [x] Complete Assignment 1
-  - [x] Create a file called `index.html` in your repo
-  - [x] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
-  - [x] Test your file in a web browser
-  - [x] Commit and push the files to Github
+  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder into Atom)
+  - [ ] ✏️ Add a README file: `README.md`
+  - [ ] ✏️ In the README write your name and the date
+  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
+
+
+## Create a Github.io page
+Create a github.io site for your repository ...
+
+- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>My first github.io website</title>
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p>🙌</p>
+
+</body>
+</html>
+```
 - [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [x] Choose "Project site"
-  - [x] Do not use a theme. Start from scratch
-  - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [x] Visit your project site at http://*username*.github.io/dig245-a1
-  - [x] Paste this link into the appropriate Moodle forum
+  - [ ] Go to the settings page for your repo on Github.com and scroll aaaaallllll the way down to the Github Pages section
+  - [ ] Select the main branch source and click save
+  - [ ] Do not use a theme. Start from scratch
+  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [ ] Paste this link here:
 
 
-## Git Fluency
-
-That is all that is required for DIG 245. See the `ADVANCED.md` file if you would like to continue learning Git.
 
 
-## Resources
 
-* [Github Desktop Documentation](https://docs.github.com/en/desktop)
-* Github Cheatsheet [HTML](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) and [PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-* [Github Learning Lab](https://lab.github.com/) which contains tutorials like [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github) and others
+
+## Turn in this Assignment
+Now that we have basic Git commands out of the way use Git to create and turn in your assignment ...
+
+- [ ] Complete all of the items on this README
+- [ ] Test your file(s) in a web browser
+- [ ] Commit and push the files to Github
+- [ ] Paste the github.io link into the appropriate Moodle forum
+
+
+
+
+## Git Advanced
+
+That is all that is required for this milestone. See the `ADVANCED.md` file if you would like to continue learning Git.
+
+
+
+## Grading
+- [ ] Points: `20`
+	- [ ] Git Basics & Basic Git Workflows
+		- [ ] `2` forked repo correctly
+		- [ ] `2` linked to correct Github Pages site for repo
+		- [ ] `3` favorite emoji
+		- [ ] `1` mark steps as complete
+		- [ ] `2` commit names
+		- [ ] `1` path of local repo
+		- [ ] `2` `hello.text` with changes
+	- [ ] Create a repository and submit an assignment
+		- [ ] `1` create the new `my-awesome-project` repo from scratch
+		- [ ] `2` add `README.md` with markdown tags
+		- [ ] `2` add `index.html` with tags
+		- [ ] `2` turn in this Assignment
+
+
+
+## Credits
+
+Thanks to [Jesse Farmer](https://github.com/jfarmer) for inspiring this milestone assignment.
